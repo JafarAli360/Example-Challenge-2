@@ -1,0 +1,25 @@
+.offcanvas {
+  max-width: 50%;
+}
+
+.col {
+  background-color: light;
+  padding: 50px 115px 0px 0px;
+}
+
+.col-lg-7 {
+  padding: 0px 0px 0px 10%;
+}
+
+.row {
+  padding: 0px 0px 10px 0px;
+}
+
+.collapse {
+  padding: 0%;
+}
+
+h1 {
+  font: bold;
+  font-size: 225%;
+}
